@@ -1,0 +1,144 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.BLL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\OpenSmtp.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\COM.Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\IBatisNet.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\XHD.BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\XHD.BLL.pdb
+F:\VS 2010\XHD\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.BLL.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.BLL.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DAL.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHD\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHD\BLL\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHD\BLL\bin\Debug\Excel.dll
+F:\VS 2010\XHD\BLL\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DBUtility.dll
+F:\VS 2010\XHD\BLL\bin\Debug\IBatisNet.DataMapper.dll
+F:\VS 2010\XHD\BLL\bin\Debug\IBatisNet.Common.dll
+F:\VS 2010\XHD\BLL\bin\Debug\System.Data.SQLite.dll
+F:\VS 2010\XHD\BLL\bin\Debug\MySql.Data.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DAL.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DBUtility.pdb
+F:\VS 2010\XHD\BLL\obj\Debug\XHD.BLL.dll
+F:\VS 2010\XHD\BLL\obj\Debug\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\Excel.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+F:\VS 2010\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+F:\VS 2010\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\office.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\Excel.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+D:\Web\CRM_v12\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Web\CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+D:\Web\CRM_v12\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+D:\www\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+D:\www\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+D:\www\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+D:\www\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+D:\www\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+D:\www\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\www\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+D:\www\XHDcrm\BLL\bin\Debug\Excel.dll
+D:\www\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+D:\www\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+D:\www\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+D:\www\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\www\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+D:\www\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+D:\www\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+D:\www\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+D:\www\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+D:\www\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+D:\www\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+D:\www\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb

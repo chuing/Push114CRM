@@ -1,0 +1,36 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\XHD.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\XHD.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\COM.Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\OpenSmtp.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\obj\Debug\XHD.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Common\obj\Debug\XHD.Common.pdb
+F:\VS 2010\XHD\Common\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHD\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHD\Common\obj\Debug\XHD.Common.dll
+F:\VS 2010\XHD\Common\obj\Debug\XHD.Common.pdb
+F:\VS 2010\XHDcrm\Common\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHDcrm\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\Common\obj\Debug\XHD.Common.dll
+F:\VS 2010\XHDcrm\Common\obj\Debug\XHD.Common.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\bin\Debug\XHD.Common.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\bin\Debug\office.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\Common\bin\Debug\XHD.Common.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Web\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.pdb
+D:\Web\CRM_v12\XHDcrm\Common\bin\Debug\XHD.Common.pdb
+D:\Web\CRM_v12\XHDcrm\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Web\CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.dll
+D:\Web\CRM_v12\XHDcrm\Common\obj\Debug\XHD.Common.pdb
+D:\www\XHDcrm\Common\bin\Debug\XHD.Common.pdb
+D:\www\XHDcrm\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\www\XHDcrm\Common\obj\Debug\XHD.Common.dll
+D:\www\XHDcrm\Common\obj\Debug\XHD.Common.pdb

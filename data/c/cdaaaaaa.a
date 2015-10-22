@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+  
+<script language=javascript>  
+    <!--  
+    function preview()  
+    {  
+        bdhtml=window.document.body.innerHTML;  
+        sprnstr="<!--startprint-->";  
+        eprnstr="<!--endprint-->";  
+        prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);  
+  
+        alert(prnhtml);  
+  
+        prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));  
+  
+        window.document.body.innerHTML=prnhtml;  
+        //window.print();  
+    }   
+    -->  
+</script>
+</head>  
+<body>
+<table width="500" border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><center>本部分以上不被打印</center> </td>
+  </tr>
+  <tr>
+    <td><!--startprint-->  
+      <p>黑色头发要打印位置 二
+  <!--endprint-->
+      </p>
+    <p>打印效果测试</p></td>
+  </tr>
+  <tr>
+    <td><center>本部分以下不被打印</center></td>
+  </tr>
+  <tr>
+    <td>
+<div align="center">  
+<input type="button" name="print" value="预览并打印" onclick="preview()">  
+</div>  
+<style> @media Print { .Noprn { DISPLAY: none }}  
+</style>  
+<p class="Noprn">不打印</p>  
+<table id="datagrid">  
+<tr>  
+<td>打印</td>  
+</tr>  
+</table>  
+<input class="Noprn" type="button" onclick="window.print()" value="print">  
+<input type="button" name="print" value="预览并打印" onclick="preview()">
+</td>
+</table>
+
+</body>  
+</html>  

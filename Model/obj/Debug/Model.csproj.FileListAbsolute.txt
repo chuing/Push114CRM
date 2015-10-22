@@ -1,0 +1,69 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Model\bin\Debug\XHD.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Model\bin\Debug\XHD.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Model\obj\Debug\XHD.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\Model\obj\Debug\XHD.Model.pdb
+F:\VS 2010\XHD\Model\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHD\Model\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHD\Model\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHD\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHD\Model\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHD\Model\bin\Debug\Excel.dll
+F:\VS 2010\XHD\Model\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHD\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHD\Model\obj\Debug\XHD.Model.dll
+F:\VS 2010\XHD\Model\obj\Debug\XHD.Model.pdb
+F:\VS 2010\XHD\Model\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHDcrm\Model\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHDcrm\Model\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHDcrm\Model\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHDcrm\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\Model\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHDcrm\Model\bin\Debug\Excel.dll
+F:\VS 2010\XHDcrm\Model\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHDcrm\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\Model\obj\Debug\XHD.Model.dll
+F:\VS 2010\XHDcrm\Model\obj\Debug\XHD.Model.pdb
+F:\VS 2010\XHDcrm\Model\bin\Debug\XHD.Common.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\OpenSmtp.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\COM.Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\office.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\XHD.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\OpenSmtp.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\bin\Debug\COM.Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.pdb
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\XHD.Model.pdb
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\XHD.Common.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\OpenSmtp.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\Excel.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\COM.Excel.dll
+D:\Web\CRM_v12\XHDcrm\Model\bin\Debug\XHD.Common.pdb
+D:\Web\CRM_v12\XHDcrm\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Web\CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.dll
+D:\Web\CRM_v12\XHDcrm\Model\obj\Debug\XHD.Model.pdb
+D:\www\XHDcrm\Model\bin\Debug\XHD.Model.dll
+D:\www\XHDcrm\Model\bin\Debug\XHD.Model.pdb
+D:\www\XHDcrm\Model\bin\Debug\XHD.Common.dll
+D:\www\XHDcrm\Model\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\www\XHDcrm\Model\bin\Debug\OpenSmtp.dll
+D:\www\XHDcrm\Model\bin\Debug\Excel.dll
+D:\www\XHDcrm\Model\bin\Debug\COM.Excel.dll
+D:\www\XHDcrm\Model\obj\Debug\XHD.Model.dll
+D:\www\XHDcrm\Model\obj\Debug\XHD.Model.pdb
+D:\www\XHDcrm\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

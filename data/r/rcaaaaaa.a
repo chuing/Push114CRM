@@ -1,0 +1,10 @@
+<appSettings>
+  <!--连接字符串是否加密-->
+  <add key="ConStringEncrypt" value="false" />
+  <!--连接字符串,(可以扩展支持不同数据库)如果是加密方式，上面一项要设置为true，如果是明文server=127.0.0.1;database=codematic;uid=sa;pwd=,上面设置为false-->
+  <add key="ConnectionString" value="server=.\sqlexpress;uid=sa;pwd=net;database=xhd_test_o" />
+  <!-- <add key="ConnectionString" value="server=.\sqlexpress;uid=sa;pwd=net;database=xhd_CRM" />-->
+  <!--<add key="ConnectionString" value="server=hds-016.hichina.com;uid=hds0160443;pwd=n9e4s6x7m2;database=hds0160443_db" />-->
+  <!--是否已配置完毕-->
+  <add key="CompleteConfig" value="true" />
+</appSettings>                                                                      

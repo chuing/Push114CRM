@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JS--单条新闻向上滚动代码</title>
+<script type="text/javascript" src="/lib/jquery/jquery-1.3.2.min.js"></script>
+</head>
+
+<style type="text/css">
+ul,li{margin:0;padding:0}
+#scrollDiv{width:300px;height:25px;line-height:25px;border:#ccc 0px solid;overflow:hidden}
+#scrollDiv li{height:25px;padding-left:10px;}
+</style>
+
+<script type="text/javascript">
+function AutoScroll(obj){
+        $(obj).find("ul:first").animate({
+                marginTop:"-25px"
+        },500,function(){
+                $(this).css({marginTop:"0px"}).find("li:first").appendTo(this);
+        });
+}
+$(document).ready(function(){
+setInterval('AutoScroll("#scrollDiv")',1000)
+});
+</script>
+
+<body>
+<div class="news">
+        <div class="news_tit">最新动态</div>
+            <div class="news_con"> 
+<div id="scrollDiv">
+  <ul>
+    <li>这是公告标题的第一行</li>
+    <li>这是公告标题的第二行</li>
+    <li>这是公告标题的第三行</li>
+    <li>这是公告标题的第四行</li>
+    <li>这是公告标题的第五行</li>
+    <li>这是公告标题的第六行</li>
+    <li>这是公告标题的第七行</li>
+    <li>这是公告标题的第八行</li>
+  </ul>
+</div>
+</div>
+</div>
+       
+</body>
+</html>

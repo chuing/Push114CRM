@@ -1,0 +1,136 @@
+F:\VS 2010\XHDcrm\CRM\bin\CRM.dll
+F:\VS 2010\XHDcrm\CRM\bin\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.dll
+F:\VS 2010\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\CRM\bin\OpenSmtp.dll
+F:\VS 2010\XHDcrm\CRM\bin\Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\COM.Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\MySql.Data.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.dll
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Www\花城人才_v12\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Www\花城人才_v12\XHDcrm\CRM\obj\Debug\CRM.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\obj\Debug\CRM.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\CRM.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\CRM.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.BLL.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.Common.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.DAL.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.Model.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\OpenSmtp.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\Excel.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\COM.Excel.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.DBUtility.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\office.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\Microsoft.Vbe.Interop.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\IBatisNet.Common.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\MySql.Data.dll
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.BLL.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.Common.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.DAL.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.Model.pdb
+E:\Www\花城人才_v12\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\CRM.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\CRM.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.BLL.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DAL.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Model.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\OpenSmtp.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\COM.Excel.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\office.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\Microsoft.Vbe.Interop.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\IBatisNet.Common.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\MySql.Data.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.BLL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Common.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DAL.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Model.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.dll
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.pdb
+E:\Www\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\CRM.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\CRM.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.BLL.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DAL.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Model.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\OpenSmtp.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\COM.Excel.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\IBatisNet.Common.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\MySql.Data.dll
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.BLL.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Common.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DAL.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.Model.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\Web\小黄豆CRM_v12\XHDcrm\CRM\obj\Debug\CRM.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\CRM.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\CRM.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.BLL.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.Common.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.DAL.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.Model.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\OpenSmtp.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\Excel.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\COM.Excel.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\IBatisNet.Common.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\MySql.Data.dll
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.BLL.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.Common.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.DAL.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.Model.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\Web\CRM_v12\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\Web\CRM_v12\XHDcrm\CRM\obj\Debug\CRM.dll
+D:\Web\CRM_v12\XHDcrm\CRM\obj\Debug\CRM.pdb
+D:\www\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\www\XHDcrm\CRM\obj\Debug\CRM.dll
+D:\www\XHDcrm\CRM\bin\CRM.dll
+D:\www\XHDcrm\CRM\bin\CRM.pdb
+D:\www\XHDcrm\CRM\bin\XHD.BLL.dll
+D:\www\XHDcrm\CRM\bin\XHD.Common.dll
+D:\www\XHDcrm\CRM\bin\XHD.DAL.dll
+D:\www\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+D:\www\XHDcrm\CRM\bin\OpenSmtp.dll
+D:\www\XHDcrm\CRM\bin\Excel.dll
+D:\www\XHDcrm\CRM\bin\COM.Excel.dll
+D:\www\XHDcrm\CRM\bin\XHD.DBUtility.dll
+D:\www\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+D:\www\XHDcrm\CRM\bin\IBatisNet.Common.dll
+D:\www\XHDcrm\CRM\bin\MySql.Data.dll
+D:\www\XHDcrm\CRM\bin\XHD.BLL.pdb
+D:\www\XHDcrm\CRM\bin\XHD.DAL.pdb
+D:\www\XHDcrm\CRM\bin\XHD.Model.pdb
+D:\www\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\www\XHDcrm\CRM\obj\Debug\CRM.pdb
+D:\www\XHDcrm\CRM\bin\XHD.Model.dll
+D:\www\XHDcrm\CRM\bin\XHD.Common.pdb
