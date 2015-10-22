@@ -42,8 +42,8 @@
 
             $("#maingrid4").ligerGrid({
                 columns: [
-                    { display: '#', width: 50, render: function (rowData, rowindex, value, column, rowid, page, pagesize) { return (page - 1) * pagesize + rowindex + 1; } },
-                    { display: '序号', name: 'id', width: 50 },
+                    { display: '序号', width: 50, render: function (rowData, rowindex, value, column, rowid, page, pagesize) { return (page - 1) * pagesize + rowindex + 1; } },
+                    //{ display: '序号', name: 'id', width: 50 },
                     { display: '合同编号', name: 'Serialnumber', width: 140 },
                     { display: '合同名称', name: 'Contract_name', width: 200, align: 'left' },
                     { display: '客户名称', name: 'Customer_name', width: 200 },
